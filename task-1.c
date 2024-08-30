@@ -8,35 +8,25 @@ int main(){
     scanf("%c", &ch);
 
     switch(ch){
-        case 'a': 
-            printf("Vowel");
+        case 'a': printf("Vowel");
             break;
-        case 'e': 
-            printf("Vowel");
+        case 'e': printf("Vowel");
             break;
-        case 'i': 
-            printf("Vowel");
+        case 'i': printf("Vowel");
             break;
-        case 'o': 
-            printf("Vowel");
+        case 'o': printf("Vowel");
             break;
-        case 'u': 
-            printf("Vowel");
+        case 'u': printf("Vowel");
             break;
-        case 'A': 
-            printf("Vowel");
+        case 'A': printf("Vowel");
             break;
-        case 'E': 
-            printf("Vowel");
+        case 'E': printf("Vowel");
             break;
-        case 'I': 
-            printf("Vowel");
+        case 'I': printf("Vowel");
             break;
-        case 'O': 
-            printf("Vowel");
+        case 'O': printf("Vowel");
             break;
-        case 'U': 
-            printf("Vowel");
+        case 'U': printf("Vowel");
             break;
         default: 
             printf("Enter your corect Vowel");
